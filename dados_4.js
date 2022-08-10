@@ -1,13 +1,13 @@
-const a = 3;
+let a = 3;
 
 // ...
 
 
-// a = a + 10;
+a = a + 10;
 
 
 // ...
 
 
 
-console.log();
+console.log(a);
