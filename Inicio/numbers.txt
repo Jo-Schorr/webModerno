@@ -1,0 +1,147 @@
+1
+
+one	uón
+2
+
+two	
+tchú
+
+3	three	
+thrii
+
+4
+
+four	fór
+5
+
+five	fáiv
+6	six	
+siks
+
+7	seven	
+séven
+
+8
+
+eight	êit
+9
+
+nine	náin
+10
+
+ten	
+tén
+
+11	eleven	
+iléven
+
+12	twelve	
+tuélv
+
+13
+
+thirteen	thãrtín
+14
+
+fourteen	fórtín
+15	fifteen	
+fiftín
+
+16	sixteen	
+sikstín
+
+17
+
+seventeen	séventín
+18
+
+eighteen	êitín
+19
+
+nineteen	náintín
+20
+
+twenty	tuénti
+21	twenty-one	
+tuénti uón
+
+22	twenty-two	
+tuénti tchú
+
+23
+
+twenty-three
+
+tuénti thrii
+
+24
+
+twenty-four	tuénti fór
+25
+
+twenty-five	tuénti fáiv
+26
+
+twenty-six	
+tuénti siks
+
+27	twenty-seven	
+tuénti séven
+
+28	twenty-eight	
+tuénti êit
+
+29
+
+twenty-nine	tuénti náin
+30
+
+thirty	thãrtí
+31	thirty-one	
+thãrtí uón
+
+32	thirty-two	
+thãrtí tchú
+
+33	thirty-three	
+thãrtí thrii
+
+34
+
+thirty-four	thãrtí fór
+35	thirty-five	
+thãrtí fáiv
+
+36
+
+thirty-six	thãrtí siks
+37	thirty-seven	
+thãrtí séven
+
+38
+
+thirty-eight	thãrtí êit
+39	thirty-nine	
+thãrtí náin
+
+40
+
+forty	fórti
+41	forty-one	
+fórti uón
+
+42
+
+forty-two	fórti tchú
+43	forty-three	
+fórti thrii
+
+44
+
+forty-four	fórti fór
+45	forty-five	
+fórti fáiv
+
+46
+
+forty-six	fórti siks
