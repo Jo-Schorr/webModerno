@@ -9,3 +9,11 @@ console.log(prod1)
 
 
 
+const prod2 = {
+
+
+
+
+}
+
+
